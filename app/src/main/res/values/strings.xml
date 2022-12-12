@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flashlight App</string>
+    <string name="torch_button">Turn the torch on or off</string>
+    <string name="torch_button_background">Torch Background</string>
+</resources>
